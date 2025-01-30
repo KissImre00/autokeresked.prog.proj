@@ -19,9 +19,7 @@ a {
 }
 #ferrarilink {
     float: right;
-    padding-right: px;
-
-
+    padding-right: 110px;
 }
 #ferrari {
     width: 250px;
@@ -37,7 +35,35 @@ a {
     padding-top: 17em;
     padding-left: 30px;
 }
+
 #porschelink {
     float: right;
-    padding-right: 400px;
+    padding-right: 30px;
+}
+#mclaren {
+    width: 500px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 19em;
+    padding-left: 30px;
+}
+#mclarenlink {
+    float: right;
+    padding-right: 0px;
+}
+#egesz {
+    width: 1560px;
+    margin: auto;
+}
+#audih2 {
+padding-top:11px;
+}
+#mclarenh2 {
+    padding-top: 24px;
+}
+#ferrarih2 {
+    padding-bottom: 4px;
+}
+#porscheh2 {
+    padding-top: 3px;
 }
