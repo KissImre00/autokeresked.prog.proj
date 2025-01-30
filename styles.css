@@ -19,7 +19,7 @@ a {
 }
 #ferrarilink {
     float: right;
-    padding-right: 630px;
+    padding-right: px;
 
 
 }
@@ -29,4 +29,15 @@ a {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-top: 16em;
     padding-left: 10px;
+}
+#porsche {
+    width: 230px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 17em;
+    padding-left: 30px;
+}
+#porschelink {
+    float: right;
+    padding-right: 400px;
 }
