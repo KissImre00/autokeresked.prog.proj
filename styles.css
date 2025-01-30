@@ -17,3 +17,16 @@ a {
     text-decoration: none;
 
 }
+#ferrarilink {
+    float: right;
+    padding-right: 630px;
+
+
+}
+#ferrari {
+    width: 250px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 16em;
+    padding-left: 10px;
+}
