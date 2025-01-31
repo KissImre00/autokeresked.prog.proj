@@ -2,7 +2,8 @@
     width: 300px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 20px;
+    padding: 0 20px;
+
 }
 
 #aud {
@@ -28,10 +29,8 @@ a {
     width: 250px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 10px;
 
-    padding-left: 10px;
-    padding-right: 10px;
-    margin: auto;
 }
 #ferrari:hover {
     background-color: #C1BEBF;
@@ -78,14 +77,14 @@ a {
     margin-top: 17em;
 }
 #audih2 {
-margin-top: 5px;
+margin-top: 26px;
 }
 #mclarenh2 {
-    padding-top: 54px;
+    padding-top: 51px;
 }
 #ferrarih2 {
     margin-top: 0px;
 }
 #porscheh2 {
-    padding-bottom: 10px;
+    margin-top: 10px;
 }

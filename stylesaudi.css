@@ -1,3 +1,28 @@
-#rs8 img {
+.auto img {
     width: 300px;
+    float: left;
+}
+.szovegdiv {
+   text-align: center;
+}
+table, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td {
+    padding: 0 20px;
+}
+.felsoindex {
+    text-transform: ;
+}
+table {
+    width: 900px;
+    margin-left: 30px;
+}
+img {
+}
+.auto {
+    width: 1920px;
+    height: 300px;
+    margin: 0 auto;
 }
