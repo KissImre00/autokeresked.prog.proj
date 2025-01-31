@@ -2,8 +2,7 @@
     width: 300px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 17em;
-    padding-left: 20px;
+    padding: 20px;
 }
 
 #aud {
@@ -13,6 +12,9 @@
     color: black;
     text-decoration: none;
 }
+#audilink {
+  float: right;
+}
 a {
     text-decoration: none;
     color: black;
@@ -20,33 +22,51 @@ a {
 }
 #ferrarilink {
     float: right;
-    padding-right: 110px;
+
 }
 #ferrari {
     width: 250px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 16em;
+
     padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+}
+#ferrari:hover {
+    background-color: #C1BEBF;
+    border-radius: 10px;
+}
+#audi:hover {
+    background-color: #C1BEBF;
+    border-radius: 10px;
+}
+#porsche:hover {
+    background-color: #C1BEBF;
+    border-radius: 10px;
+}
+#mclaren:hover {
+    background-color: #C1BEBF;
+    border-radius: 10px;
 }
 #porsche {
     width: 230px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 17em;
-    padding-left: 30px;
+    padding: 0 30px;
+    padding-top: 10px;
+    
 }
 
 #porschelink {
     float: right;
-    padding-right: 30px;
 }
 #mclaren {
     width: 500px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 19em;
-    padding-left: 30px;
+
+    padding: 0 30px;
 }
 #mclarenlink {
     float: right;
@@ -55,16 +75,17 @@ a {
 #egesz {
     width: 1560px;
     margin: auto;
+    margin-top: 17em;
 }
 #audih2 {
-padding-top:11px;
+margin-top: 5px;
 }
 #mclarenh2 {
-    padding-top: 24px;
+    padding-top: 54px;
 }
 #ferrarih2 {
-    padding-bottom: 4px;
+    margin-top: 0px;
 }
 #porscheh2 {
-    padding-top: 3px;
+    padding-bottom: 10px;
 }
