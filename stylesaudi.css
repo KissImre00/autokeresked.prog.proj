@@ -77,9 +77,20 @@ body {
     height: 10%;
 
 }
-#fejlec p {
+#fejlec a {
     margin-top: 3%;
     text-align: center;
     font-size: 26pt;
     font-weight: bold;
+    margin-bottom: 10%;
+    margin-left: 7.6%;
+    color: black;
+}
+#fejlec #audi {
+    text-decoration: none;
+    color: grey;
+}
+#fejlec {
+    margin-top: 4%;
+    margin-bottom: 5%;
 }
