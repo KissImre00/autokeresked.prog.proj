@@ -59,7 +59,8 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .button {
-    background-color: blue;
+    background-color: #A54DFF;
+    text-decoration: none;
     color: white;
     width: 10%;
     height: 40px;

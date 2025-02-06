@@ -12,10 +12,10 @@
     <div id="fejlec">
         <a href="index.html">Főoldal</a>
         <a href="audi.html">Audi</a>
-        <a href="">Ferrari</a>
+        <a href="ferrari.html">Ferrari</a>
         <a href="">Porsche</a>
         <a href="">Mclaren</a>
-        <a href="" id="kapcsolatfelvetel">Kapcsolatfelvétel</a>
+        <a href="kapcsolatfelvetel.html" id="kapcsolatfelvetel">Kapcsolatfelvétel</a>
     </div>
     <div id="beviteli">
         <div id="vezetekneves">
@@ -26,34 +26,43 @@
             <label for="keresztnev">Keresztnév</label><br>
             <input type="text" id="keresztnev">
         </div><br><br><br>
+
         <div id="telefonos">
             <label for="telefonszam">Telefonszám</label><br>
             <input type="number" id="telefonszam" placeholder="+36 12 345 6789">
-        </div><br><br><br>
+        </div>
         <div id="emailes">
             <label for="email">Email</label><br>
             <input type="text">
+        </div><br><br><br>
+        <div id="megjegyzes">
+            <label for="megjegyzes2" id="megjegyzeslabel">Megjegyzés</label><br>
+            <textarea name="megjegyzes" id="megjegyzes2" rows="7" cols="21"></textarea>
         </div>
-    </div><br>
-    <label for="autovalasztas">Autó</label>
-    <select name="autovalasztas" id="autovalasztas">
-        <option value="Audi R8">Audi R8</option>
-        <option value="Audi A6">Audi A6</option>
-        <option value="Audi RS3 Sportback">Audi RS3 Sportback</option>
-        <option value="Ferrari F8 Tributo">Ferrari F8 Tributo</option>
-        <option value="Ferrari Spider 488">Ferrari Spider 488</option>
-        <option value="Ferrari 296 GTB">Ferrari 296 GTB</option>
-    </select>
-    <div id="megjegyzés">
-        <label for="megjegyzes">Megjegyzés</label><br>
-        <textarea name="" id="megjegyzes"></textarea>
 
-    </div>
-    <div id="kuldes">
-        <input type="submit" value="Küldés">
 
+
+
+        <br>
+        <div id="autovalasztas">
+            <label for="autovalasztas">Autó</label><br>
+            <select name="autovalasztas" id="autovalasztas2">
+                <option value="Audi R8">Audi R8</option>
+                <option value="Audi A6">Audi A6</option>
+                <option value="Audi RS3 Sportback">Audi RS3 Sportback</option>
+                <option value="Ferrari F8 Tributo">Ferrari F8 Tributo</option>
+                <option value="Ferrari Spider 488">Ferrari Spider 488</option>
+                <option value="Ferrari 296 GTB">Ferrari 296 GTB</option>
+            </select>
+        </div>
+        <div id="torles">
+            <input type="reset" value="Adatok törlése">
+        </div>
+        <div id="kuldes">
+            <input type="submit" value="Küldés">
+        </div>
     </div>
-    </div>
+    
 
 </body>
 
