@@ -57,7 +57,11 @@ h1 {
 body {
     text-align: justify;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    background-image: url(hatterkep/porscheporsche.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: 300px 100px;
+    background-attachment: fixed;
 }
 .button {
     background-color: #A54DFF;

@@ -57,6 +57,12 @@ h1 {
 body {
     text-align: justify;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-repeat: no-repeat;
+    background-image:url(hatterkep/ferrariferrari.png) ;
+    background-attachment: fixed;
+    background-position-y: 150px;
+    background-position-x: 464px;
+    background-size: 80%;
 
 }
 .button {
