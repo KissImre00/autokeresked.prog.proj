@@ -44,8 +44,8 @@ h1 {
     margin-top: 3%;
 
 }
-.autos2:hover {
-
+/*.autos2:hover ~ .autos {
+filter: blur(8px);*/
     
 }
 .autos {
