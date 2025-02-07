@@ -42,12 +42,22 @@ h1 {
     margin-left: 18%;
     max-width: 1400px;
     margin-top: 3%;
+    transition: ease-in-out 0.6s;
 }
 
 .autos {
     margin-left: 18%;
     max-width: 1400px;
+    transition: ease-in-out 0.6s;
 
+}
+.autos:hover {
+    transform: scale(1.075);
+    transition: ease-in-out 0.6s;
+}
+.autos2:hover {
+    transform: scale(1.075);
+    transition: ease-in-out 0.6s;
 }
 
 .auto p {
